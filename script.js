@@ -1,5 +1,5 @@
 /* ============================================================
-   AJMAL BASITH & NAHAL — WEDDING INVITATION
+   AJMAL BASITH & NAHLA — WEDDING INVITATION
    ============================================================ */
 
 /* ---------- CONFIGURATION (edit here) ---------- */
