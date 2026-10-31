@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
       openSection.style.display = 'none';
       document.body.style.overflow = 'auto';
       document.getElementById('hero').scrollIntoView({ behavior: 'auto' });
-    }, 1200);
+    }, 800);
   }
 
   function openInvitation(){
